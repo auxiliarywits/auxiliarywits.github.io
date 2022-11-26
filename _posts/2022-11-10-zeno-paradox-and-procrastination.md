@@ -1,7 +1,11 @@
 ---
 layout: article
 title: Zeno paradox and procrastination
+mode: immersive
+header:
+  theme: dark
 article_header:
+  type: overlay
   theme: dark
   background_color: '#123'
   background_image: false
