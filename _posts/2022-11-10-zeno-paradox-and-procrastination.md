@@ -8,6 +8,9 @@ article_header:
   background_image: false
 ---
 
+
+
+
 <br/>
 Suppose you want to move from A to B. To get to your destination, logically, you have to reach the halfway point between A and B. Before getting to the halfway point, you must reach the halfway of the halfway point. But before even getting to that point, you also have to reach half of it, and so forth. Assuming that you have to finish every step before doing the next, this means there is an infinite step required to complete the journey. Thus, movement is impossible. This is the Zeno paradox of motion.
 
