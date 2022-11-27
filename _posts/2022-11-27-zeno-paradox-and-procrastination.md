@@ -6,9 +6,7 @@ header:
   theme: dark
 article_header:
   type: cover
-  theme: dark
-  background_color: '#203028'
-  background_image:
+  image:
      src: /assets/Tortoise_and_hare.jpg
 ---
 ^
