@@ -36,9 +36,9 @@ article_header:
 key: page-about
 ---
 Hi!<br/>
-This is a personal blog for my personal writings, mostly collection of my Twitter thread and notes.<br/>
+This is a personal blog for my personal writings, mostly reworking of my Twitter thread and notes.<br/>
 <br/>
-Writing is harder than I expected. My posts are disjointed rambling and decidedly incomplete, because writing properly is suprisingly hard. It is my attempt to articulate my observations and rough, half-assed analysis into something accessible and readable in linear fashion. <br/>
+Writing is harder than I expected. My posts are disjointed rambling and decidedly incomplete. It is my attempt to articulate my observations and rough, half-assed analysis into something accessible and readable in linear fashion. <br/>
 <br/>
 If you're a friend of mine from Twitter, welcome. Basically my talking point is more or less the same with my tweets but it will be more elaborated.<br/>
 Cheers!<br/>
