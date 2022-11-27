@@ -1,6 +1,15 @@
 ---
 layout: article
 title: Zeno paradox and procrastination
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: overlay
+  theme: dark
+  background_color: '#203028'
+  background_image:
+     src: /assets/Tortoise_and_hare.jpg
 ---
 This is the first draft
 {:.info}
