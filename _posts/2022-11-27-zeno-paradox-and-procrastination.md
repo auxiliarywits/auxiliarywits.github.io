@@ -7,7 +7,7 @@ header:
 article_header:
   type: cover
   image:
-     src: /assets/Tortoise_and_hare.jpg
+     src: /assets/Tortoise_and_hare1.jpg
 ---
 ^
 This is the first draft
