@@ -34,10 +34,10 @@ article_header:
      src: /assets/Cover.jpg
 key: page-about
 ---
-Hi!<br/>
-This is a personal blog for my personal writings, mostly reworking of my Twitter thread and notes.<br/>
+Hello there!<br/>
+This is a blog for my personal writings, mostly reworking of my Twitter thread and notes.<br/>
 <br/>
-Writing is harder than I expected. My posts are disjointed rambling and decidedly incomplete. It is my attempt to articulate my observations and rough, half-assed analysis into something accessible and readable in linear fashion. <br/>
+My posts are disjointed rambling and decidedly incomplete, because writing is harder than I expected. This is my attempt to articulate my observations and rough, half-baked analysis into something readable. <br/>
 <br/>
 If you're a friend of mine from Twitter, welcome. Basically my talking point is more or less the same with my tweets but it will be more elaborated.<br/>
 Cheers!<br/>
