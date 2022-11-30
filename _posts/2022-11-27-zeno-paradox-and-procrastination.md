@@ -14,7 +14,7 @@ This is the first draft.
 {:.info}
 Suppose you want to move from A to B. To get to your destination, logically, you have to reach the halfway point between A and B. Before getting to the halfway point, you must reach the halfway of the halfway point. But before even getting to that point, you also have to reach half of it, and so forth. Assuming that you have to finish every step before doing the next, this means there is an infinite step required to complete the journey. Thus, movement is impossible. This is the Zeno paradox of motion.
 ^
-Zeno’s paradox starts with the premise that we need to move through all of the halfway points between the start and destination, then we have shown that any distance can be breakdown into an infinite number of halfway points. If you want to move, you have to complete reaching all infinite halfway points — therefore it is impossible. Yet, in real life, movement is so obvious it shouldn’t be a controversy. If you want to move, just move.
+Zeno’s paradox starts with the premise that we need pass through all of the halfway points between the start and destination, but then we have shown that any distance can be breakdown into an infinite number of halfway points. If you want to move, you have to complete reaching all infinite halfway points — therefore it is impossible. Yet, in real life, movement is so obvious it shouldn’t be controversial. If you want to move, just move.
 
 ---
 I often use this paradox as an analogy to describe self-deception in procrastination. Procrastination is a habit of delaying or postponing action until the last minute despite knowing the negative consequences. We often rationalize it with stories we told ourselves that the delay was inevitable and comes from good intentions. 
