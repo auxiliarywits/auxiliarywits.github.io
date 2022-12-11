@@ -18,7 +18,7 @@ I have a growing interest in ceramics, especially Chinese ceramics from The Ming
    <img class="image image--lg" src="/assets/Armillary1.png" alt="ceramic bottle">
   <figcaption>fig 1. ceramic bottle </figcaption>
   </figure>  
- <p align="center"> 
+</p> 
     
 Sayangnya informasi di museum kurang lengkap. Keterangannya cuma menyebutkan kalo botol ini ditemukan di Halmahera. Tidak ada deskripisi tambahan.
 Jadi aku mencoba mencari-cari sendiri di internet penjelasan yang paling mungkin. Informasi yang ada adalah: Botol keramik, Globe, Halmahera. Kemungkinan besar Portugis atau Spanyol. Setelah mencari kesana kemari akhirnya ketemu kalo simbol tersebut adalah royal symbol kerajaan Portugis yang berbentuk armillary sphere. Diadopsi dari personal coat-of-arms Raja Manuel I pada 1485 menjadi simbol nasional, saat itu Portugis di masa keemasan eksplorasi maritim dan perdagangan global. Armillary Sphere merupakan simbol pengetahuan dan keahlian dari navigasi mereka. Berabad-abad kemudian menjadi simbol nasional yang sering digunakan oleh penjelajah dan pedagang portugis di kapal dan barang-barang mereka.
