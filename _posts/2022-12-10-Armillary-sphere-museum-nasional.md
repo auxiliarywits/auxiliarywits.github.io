@@ -14,7 +14,7 @@ Pas jalan-jalan ke Museum Nasional beberapa waktu lalu, aku ketemu porselen yang
 I have a growing interest in ceramics, especially Chinese ceramics from The Ming Dynasty period. Terutama dengan corak putih dan biru cobaltnya yang khas. Semakin rumit desainnya dan semakin kontras antara warna putih dan warna birunya, semakin aku suka. I think it’s just beautiful. Porselen-porselen ini biasanya punya dekorasi alam, mitologi dan kehidupan sehari-hari, makanya ketika melihat ada botol dengan dekorasi globe aku pengen tau ceritanya.
 
 <p align="center"> 
-  <img class="image image--md" src="/assets/Armillary1.png" alt="ceramic bottle">
+  <img class="image image--lg" src="/assets/Armillary1.png" alt="ceramic bottle">
  </p>
 
 Sayangnya informasi di museum kurang lengkap. Keterangannya cuma menyebutkan kalo botol ini ditemukan di Halmahera. Tidak ada deskripisi tambahan.
