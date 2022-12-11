@@ -16,7 +16,7 @@ I have a growing interest in ceramics, especially Chinese ceramics from The Ming
 <p align="center"> 
 <figure>
 <img class="image image--xl" src="/assets/Armillary1.png" alt="ceramic bottle">
-<figcaption>fig 1. ceramic bottle </figcaption> 
+<figcaption style="text-align: center">fig 1. ceramic bottle </figcaption> 
 </figure>
 </p>
     
