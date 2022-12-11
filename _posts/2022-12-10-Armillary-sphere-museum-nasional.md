@@ -13,7 +13,7 @@ I. Museum Nasional
 Pas jalan-jalan ke Museum Nasional beberapa waktu lalu, aku ketemu porselen yang desainnya unik: Botol keramik dengan gambar globe di tengahnya.
 I have a growing interest in ceramics, especially Chinese ceramics from The Ming Dynasty period. Terutama dengan corak putih dan biru cobaltnya yang khas. Semakin rumit desainnya dan semakin kontras antara warna putih dan warna birunya, semakin aku suka. I think it’s just beautiful. Porselen-porselen ini biasanya punya dekorasi alam, mitologi dan kehidupan sehari-hari, makanya ketika melihat ada botol dengan dekorasi globe aku pengen tau ceritanya.
 
-<img class="image image--xs" src=/assets/Armillary1.png>
+<img class="image image--xs" src="Armillary1.png">
 
 Sayangnya informasi di museum kurang lengkap. Keterangannya cuma menyebutkan kalo botol ini ditemukan di Halmahera. Tidak ada deskripisi tambahan.
 Jadi aku mencoba mencari-cari sendiri di internet penjelasan yang paling mungkin. Informasi yang ada adalah: Botol keramik, Globe, Halmahera. Kemungkinan besar Portugis atau Spanyol. Setelah mencari kesana kemari akhirnya ketemu kalo simbol tersebut adalah royal symbol kerajaan Portugis yang berbentuk armillary sphere. Diadopsi dari personal coat-of-arms Raja Manuel I pada 1485 menjadi simbol nasional, saat itu Portugis di masa keemasan eksplorasi maritim dan perdagangan global. Armillary Sphere merupakan simbol pengetahuan dan keahlian dari navigasi mereka. Berabad-abad kemudian menjadi simbol nasional yang sering digunakan oleh penjelajah dan pedagang portugis di kapal dan barang-barang mereka.
