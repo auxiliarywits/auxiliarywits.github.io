@@ -50,4 +50,4 @@ Link:
 - [https://www.rmg.co.uk/collections/objects/rmgc-object-10795](https://www.rmg.co.uk/collections/objects/rmgc-object-10795)
 - [http://www.mhs.ox.ac.uk/animateit/armillary-sphere/](http://www.mhs.ox.ac.uk/animateit/armillary-sphere/)
 - [http://www.sites.hps.cam.ac.uk/starry/armillary.html](http://www.sites.hps.cam.ac.uk/starry/armillary.html)
-- [http://www.koh-antique.com/guangdong/tradeceramics3.html] (http://www.koh-antique.com/guangdong/tradeceramics3.html)
+- [http://www.koh-antique.com/guangdong/tradeceramics3.html](http://www.koh-antique.com/guangdong/tradeceramics3.html)
