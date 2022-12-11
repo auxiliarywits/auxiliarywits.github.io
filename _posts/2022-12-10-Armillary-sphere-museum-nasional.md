@@ -3,6 +3,10 @@ title: Armillary sphere di museum nasional
 tags: 
 ---
 
+Postingan ini ditulis dalam dua bahasa. This is still a draft.
+{:.info}
+
+
 I. Museum Nasional
 ---
 
