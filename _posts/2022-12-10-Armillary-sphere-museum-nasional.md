@@ -1,6 +1,14 @@
 ---
 title: Armillary sphere di museum nasional
 tags: 
+layout: article
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+     src: /assets/Azulejo_tiles.png
 ---
 
 Postingan ini ditulis dalam dua bahasa. This is still a draft.
