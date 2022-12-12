@@ -28,27 +28,37 @@ Waktu jalan-jalan ke Museum Nasional, aku ketemu porselen keramik yang unik dari
 </figure>
 
     
-Sayangnya informasi di museum kurang lengkap. Keterangannya cuma menyebutkan kalo botol ini ditemukan di Halmahera. Tidak ada deskripisi tambahan.
-Jadi aku mencoba mencari-cari sendiri di internet penjelasan yang paling mungkin. Informasi yang ada adalah: Botol keramik, Globe, Halmahera. Kemungkinan besar Portugis atau Spanyol. Setelah mencari kesana kemari akhirnya ketemu kalo simbol tersebut adalah royal symbol kerajaan Portugis yang berbentuk armillary sphere. Diadopsi dari personal coat-of-arms Raja Manuel I pada 1485 menjadi simbol nasional, saat itu Portugis di masa keemasan eksplorasi maritim dan perdagangan global. Armillary Sphere merupakan simbol pengetahuan dan keahlian dari navigasi mereka. Berabad-abad kemudian menjadi simbol nasional yang sering digunakan oleh penjelajah dan pedagang portugis di kapal dan barang-barang mereka.
+Sayangnya tidak ada informasi tambahan di display. Karena ditemukan di Halmahera, tebakan awalku ada hubungannya dengan Portugis/Spanyol karena daerah Maluku ada di jalur perdagangan mereka di jaman dulu. Akhirnya aku coba tebak dengan pencarian kecil-kecilan di internet.
+
+Setelah dicari kesana kemari menggunakan simbol globe yang ada di badan keramik, akhirnya aku ketemu kalo simbol itu namanya adalah _armillary sphere_ dan merupakan simbol kerajaan Portugis. Awalnya merupakan coat-of-arms dari Manuel I, kemudian pada 1485 ketika naik takhta menjadi raja, _armillary sphere_ dijadikan simbol nasional. Saat itu Portugis di masa keemasan eksplorasi maritim dan perdagangan global, _armillary Sphere_ merupakan simbol pengetahuan dan keahlian dari navigasi mereka.
 ^
 
 <figure>
 <p align="center"> 
 <img src="/assets/Armillary3.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 2. Porcelain decoration (left), Coat of arms of King Manuel I(right) </figcaption> 
+<figcaption style="text-align: center">fig 2. ceramics decoration (left), Coat-of-arms of King Manuel I (right) </figcaption> 
 </figure>
 
-> A coat of arms is a symbol used to identify a person, family, or organization. It typically consists of a design that is displayed on a shield or banner, and may include elements such as a crest, motto, and other decorative elements. 
+> Coat-of-arms: A coat of arms is a symbol used to identify a person, family, or organization. It typically consists of a design that is displayed on a shield or banner, and may include elements such as a crest, motto, and other decorative elements. 
 > Coats of arms originated in medieval Europe, where they were used by knights to identify themselves on the battlefield. Over time, they became associated with specific families or groups, and were used as a way to distinguish one family or group from another. Today, coats of arms are still used by many organizations, including governments, schools, and businesses.
 ^
+Berabad-abad kemudian motif _armillary sphere_ digunakan di barang-barang bahkan bangunan orang Portugis. Bahkan sampai sekarang _armillary sphere_ merupakan salah satu elemen bendera mereka.
+
+<figure>
+<p align="center"> 
+<img src="/assets/Armillary_sphere_example.png" alt="Armillary motives">
+</p>                                                             
+<figcaption style="text-align: center"> fig 3. Penggunaan motif _armillary sphere_ di peralatan sehari-hari (1), motif ubin (2), dekorasi gereja (3), dan perangko (4) </figcaption> 
+</figure>
+
 
 II. Armillary sphere
 ---
 
 <figure>
 <p align="center"> 
-<img src="/assets/Armillary4.png" alt="ceramic bottle">
+<img src="/assets/Armillary4.png" alt="Armillary sphere">
 </p>
 <figcaption style="text-align: center">fig 3. Armillary sphere </figcaption> 
 </figure>
