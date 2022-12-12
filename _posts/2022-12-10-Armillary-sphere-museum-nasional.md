@@ -22,7 +22,7 @@ Waktu jalan-jalan ke Museum Nasional, aku ketemu porselen keramik yang unik dari
 
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Armillary1_2.png" alt="ceramic bottle">
+<img src="/assets/Armillary1_2.png" alt="ceramic bottle">
 </p>
 <figcaption style="text-align: center">fig 1. Ceramic bottle </figcaption> 
 </figure>
@@ -55,15 +55,14 @@ Berabad-abad kemudian motif _armillary sphere_ digunakan di barang-barang bahkan
 
 II. Armillary sphere
 ---
-
+Armillary sphere instrumen yang Terdiri dari cincin-cincin yang diatur hingga bisa merepresentasikan posisi benda-benda langit. Armillary sphere merupakan representasi semesta meurut astronom Ptolemy. Pada model ini bumi tidak bergerak dan cincin-cincin yang mengelillinginya bisa dijadikan sebagai referensi untuk menghitung posisi benda langit dengan perspektif geosentris. 
+^
 <figure>
 <p align="center"> 
 <img src="/assets/Armillary4.png" alt="Armillary sphere">
 </p>
 <figcaption style="text-align: center">fig 3. Armillary sphere </figcaption> 
 </figure>
-
-Armillary sphere instrumen yang didesain untuk untuk memodelkan pergerakan benda-benda langit dengan bumi sebagai patokannya. Terdiri dari cincin-cincin yang diatur hingga bisa merepresentasikan posisi benda-benda langit.
 ^
 Untuk menggunakannya sebagai alat instrumen navigasi, pengguna harus mencocokkan cincin-cincin berdasarkan tanggal dan waktu pengamatan. Armillary Sphere akan memodelkan posisi-posisi benda langit saat itu dan bisa jadi referensi untuk memperkirakan posisi benda langit yang ingin kita jadikan sebagai referensi dalam navigasi, misalnya bintang utara. Selain itu instrumen ini juga bisa menentukan waktu terbit dan terbenamnya matahari, lamanya waktu dalam sehari dan ketinggian matahari dan bintang terhadap horizon. Armillary sphere sangat berguna untuk pelaut pada zaman eksplorasi maritim untuk menentukan posisi dan arah mereka di tengah laut meskipun tidak ada daratan.
 ^
@@ -75,7 +74,7 @@ The Portuguese maritime explorers made their way to China around 1514. The high 
 <p align="center"> 
 <img class="image image--xl" src="/assets/Armillary5.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 4. Jianxi, The capital region of ceramic production </figcaption> 
+<figcaption style="text-align: center">fig 4. Jianxi, The capital region of ceramic production in Ming Dynasty </figcaption> 
 </figure>
 ^
 IV. Commentary
