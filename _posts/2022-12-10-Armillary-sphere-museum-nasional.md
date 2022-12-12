@@ -10,9 +10,7 @@ Postingan ini ditulis dalam dua bahasa. This is still a draft.
 I. Museum Nasional
 ---
 
-Pas jalan-jalan ke Museum Nasional beberapa waktu lalu, aku ketemu porselen yang desainnya unik: Botol keramik dengan gambar globe di tengahnya.
-I have a growing interest in ceramics, especially Chinese ceramics from The Ming Dynasty period. Terutama dengan corak putih dan biru cobaltnya yang khas. Semakin rumit desainnya dan semakin kontras antara warna putih dan warna birunya, semakin aku suka. I think it’s just beautiful. Porselen-porselen ini biasanya punya dekorasi alam, mitologi dan kehidupan sehari-hari, makanya ketika melihat ada botol dengan dekorasi globe aku pengen tau ceritanya.
-
+Waktu jalan-jalan ke Museum Nasional, aku ketemu porselen keramik yang unik dari koleksi lainnya. Botol kecil dengan dekorasi globe ditengahnya. Aku suka porselen keramik Cina, terutama dari era Ming. Ciri khas dari keramik di era ini adalah dekorasinya dengan kombinasi warna putih dan biru. Semakin kontras biru cobaltnya, semakin bagus. Biasanya dekorasinya bergambar pemandangan, hewan atau scene daily life. Makanya pas lihat keramik dengan dekorasi globe, aku langsung penasaran dengan cerita dibaliknya.
 
 <figure>
 <p align="center"> 
@@ -30,7 +28,7 @@ Jadi aku mencoba mencari-cari sendiri di internet penjelasan yang paling mungkin
 <p align="center"> 
 <img class="image image--xl" src="/assets/Armillary3.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 1. ceramic bottle </figcaption> 
+<figcaption style="text-align: center">fig 2.  (left), (right) </figcaption> 
 </figure>
 
 > A coat of arms is a symbol used to identify a person, family, or organization. It typically consists of a design that is displayed on a shield or banner, and may include elements such as a crest, motto, and other decorative elements. 
