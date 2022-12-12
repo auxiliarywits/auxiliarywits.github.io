@@ -40,7 +40,7 @@ II. Armillary sphere
 
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Armillary4.png" alt="ceramic bottle">
+<img src="/assets/Armillary4.png" alt="ceramic bottle">
 </p>
 <figcaption style="text-align: center">fig 1. ceramic bottle </figcaption> 
 </figure>
