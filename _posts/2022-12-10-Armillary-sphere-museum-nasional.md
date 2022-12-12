@@ -8,7 +8,7 @@ header:
 article_header:
   type: cover
   image:
-     src: /assets/Azulejo_tiles.png
+     src: /assets/Azulejo_tiles2.png
 ---
 
 Postingan ini ditulis dalam dua bahasa. This is still a draft.
@@ -24,7 +24,7 @@ Waktu jalan-jalan ke Museum Nasional, aku ketemu porselen keramik yang unik dari
 <p align="center"> 
 <img class="image image--xl" src="/assets/Armillary1_2.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 1. ceramic bottle </figcaption> 
+<figcaption style="text-align: center">fig 1. Ceramic bottle </figcaption> 
 </figure>
 
     
@@ -36,7 +36,7 @@ Jadi aku mencoba mencari-cari sendiri di internet penjelasan yang paling mungkin
 <p align="center"> 
 <img src="/assets/Armillary3.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 2.  (left), (right) </figcaption> 
+<figcaption style="text-align: center">fig 2. Porcelain decoration (left), Coat of arms of King Manuel I(right) </figcaption> 
 </figure>
 
 > A coat of arms is a symbol used to identify a person, family, or organization. It typically consists of a design that is displayed on a shield or banner, and may include elements such as a crest, motto, and other decorative elements. 
@@ -50,7 +50,7 @@ II. Armillary sphere
 <p align="center"> 
 <img src="/assets/Armillary4.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 1. ceramic bottle </figcaption> 
+<figcaption style="text-align: center">fig 3. Armillary sphere </figcaption> 
 </figure>
 
 Armillary sphere instrumen yang didesain untuk untuk memodelkan pergerakan benda-benda langit dengan bumi sebagai patokannya. Terdiri dari cincin-cincin yang diatur hingga bisa merepresentasikan posisi benda-benda langit.
@@ -65,7 +65,7 @@ The Portuguese maritime explorers made their way to China around 1514. The high 
 <p align="center"> 
 <img class="image image--xl" src="/assets/Armillary5.png" alt="ceramic bottle">
 </p>
-<figcaption style="text-align: center">fig 1. ceramic bottle </figcaption> 
+<figcaption style="text-align: center">fig 4. Jianxi, The capital region of ceramic production </figcaption> 
 </figure>
 ^
 IV. Commentary
