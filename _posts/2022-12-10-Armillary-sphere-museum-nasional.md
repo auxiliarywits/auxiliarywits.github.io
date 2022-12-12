@@ -26,7 +26,7 @@ Jadi aku mencoba mencari-cari sendiri di internet penjelasan yang paling mungkin
 
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Armillary3.png" alt="ceramic bottle">
+<img src="/assets/Armillary3.png" alt="ceramic bottle">
 </p>
 <figcaption style="text-align: center">fig 2.  (left), (right) </figcaption> 
 </figure>
