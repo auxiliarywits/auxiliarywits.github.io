@@ -85,7 +85,7 @@ The Portuguese maritime explorers made their way to China around 1514. The high 
 ^
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Armillary6.png" alt="Trading route">
+<img src="/assets/Armillary6.png" alt="Trading route">
 </p>
 <figcaption style="text-align: center">fig 5. Portuguese trading route </figcaption> 
 </figure>
@@ -93,7 +93,7 @@ The Portuguese maritime explorers made their way to China around 1514. The high 
 ^
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Macao.png" alt="Macau">
+<img src="/assets/Macao.png" alt="Macau">
 </p>
 <figcaption style="text-align: center">fig 6. Macao, Portuguese trading post </figcaption> 
 </figure>
