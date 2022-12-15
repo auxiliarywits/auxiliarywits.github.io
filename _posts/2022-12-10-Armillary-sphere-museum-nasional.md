@@ -60,7 +60,7 @@ Ada beberapa hal yang menurutku bikin _armillary sphere_ itu spesial. Pertama, _
 ^
 Kedua, abad pertengahan itu dimana ilmu pengetahuan masih terbatas dan bercampur dengan takhayul dan mistisme. Bayangkan kamu adalah orang yang memiliki kemampuan untuk menghitung dan memprediksi pergerakan benda langit. Menggunakan device yang canggih dan berbagai perhitungan rumit, kamu bisa menebak jalur matahari, bulan dan bintang. It would be seen as a divine art, ilmu langit.
 ^
-Ketiga, it's a complex mechanical device and it looks so cool. Bayangkan level craftmanship yang dibutuhkan untuk merakit alat ini. Nggak heran kalo _armillary sphere_ sering muncul di lukisan-lukisan yang menggambarkan bahwa orang tersebut memiliki pengetahuan yang tinggi.
+Ketiga, it's a complex mechanical device and it looks so cool. Bayangkan level craftmanship yang dibutuhkan untuk merakit alat ini. Nggak heran kalo _armillary sphere_ sering muncul di lukisan-lukisan yang menggambarkan orang-orang dengan dengan pengetahuan dan bijak.
 ^
 <figure>
 <p align="center"> 
