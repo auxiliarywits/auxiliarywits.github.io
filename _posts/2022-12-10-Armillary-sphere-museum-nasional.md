@@ -11,9 +11,10 @@ article_header:
      src: /assets/Azulejo_tiles2.png
 ---
 
-Postingan ini ditulis dalam campuran dua bahasa. This is still a draft.
+Postingan ini ditulis dalam campuran dua bahasa.
 {:.info}
 
+**Ringkasan**: Salah satu koleksi porselen keramik di museum nasional mendorongku ke _rabbit hole_ perdagangan keramik abad pertengahan.
 
 I. Museum Nasional
 ---
