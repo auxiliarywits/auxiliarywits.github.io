@@ -10,19 +10,37 @@ article_header:
      src: /assets/Tortoise_and_hare1.jpg
 ---
 ^
-This is the first draft.
+This is the second draft.
 {:.info}
-Suppose you want to move from A to B. To get to your destination, logically, you have to reach the halfway point between A and B. Before getting to the halfway point, you must reach the halfway of the halfway point. But before even getting to that point, you also have to reach half of it, and so forth. Assuming that you have to finish every step before doing the next, this means there is an infinite step required to complete the journey. Thus, movement is impossible. This is the Zeno paradox of motion.
-^
-Zeno’s paradox starts with the premise that we need pass through all of the halfway points between the start and destination, but then we have shown that any distance can be breakdown into an infinite number of halfway points. If you want to move, you have to complete reaching all infinite halfway points — therefore it is impossible. Yet, in real life, movement is so obvious it shouldn’t be controversial. If you want to move, just move.
 
+I. Movement is impossible
 ---
-I often use this paradox as an analogy to describe self-deception in procrastination. Procrastination is a habit of delaying or postponing action until the last minute despite knowing the negative consequences. We often rationalize it with stories we told ourselves that the delay was inevitable and comes from good intentions. 
-One form of procrastination is deliberately overwhelming ourselves with never-ending preparation instead of start doing the actual task. Like an entrepreneur who is stuck in finding inspiration instead of trying to build a business, or a student who is spending too much time reading references instead of writing and formulating his thought for the essay or a job seeker who is prepping all the time but never start applying. I think you’re familiar with the pattern. 
+Suppose you want to move from A to B. To get to your destination, logically, you have to reach the halfway point between A and B. Before getting to the halfway point, you must reach the halfway of the halfway point. But before even getting to that point, you also have to reach half of it, and so forth. This means there is an infinite step required to complete the journey. Hence, movement is impossible. This is the Zeno paradox of motion.
 ^
-We deceive ourselves by keep adding distance between us and the necessary work: Endless to-do lists and over-extending preparation. The standard keeps higher, the list keeps longer, until we feel exhausted even before starting. Thus, it feels impossible to finish. Imagine an entrepreneur that convinced that he has to finish reading all the business books before trying it for real. A job seeker who refuses to apply for the job and chooses to do self-learning until he’s competent in every skill required. This unrealistic standard is self-imposed to avoid the actual fear of failing. From the internal perspective, it is almost impossible to finish the task. From other people’s perspectives, this is just self-sabotage.
+Let's break it down. Zeno's paradox starts with framing the problem in procedural thinking:
+- A to B is a unit of length for a movement
+- To cover the unit of length you must reach the middle point first.
+- For every attempt to reach the middle point, there is another middle point to be reached first.
+- There are infinite numbers of middle points.
+^
+Because we approach it as a procedure, we can't say the movement is completed until we finish all the tasks. Since it is logically impossible to finish an infinite number of tasks, we will never complete the movement.
+^ 
+This is contradictive with movement in real life. If you want to move, just move and you will arrive. None of these arguments are relevant.
 
+II Procrastination and self-sabotage
 ---
-Paradox stories are interesting because it’s able to confuse two contradictory answers. If you frame a problem and reason it in a specific way, you can arrive at an unintuitive conclusion. Be careful of the sophistry of your mind. You’re capable to intellectualize and rationalize anything into a seemingly reasonable explanation — including justifying to not do the necessary work.
+I often use this paradox as an analogy to describe self-deception in procrastination. We often rationalize our avoidance with stories from certain perspectives to make us feel better and justified.
+^
+One form of procrastination is by overwhelming ourselves with never-ending preparation instead of start doing the actual task. We believe X amount of preparation is necessary before doing the actual work and we don't want to skip any part. Good results come from good preparation, right?
+^
+But often this is just us deceiving ourselves by keep adding distance between us and the necessary work. Endless to-do lists and over-extending preparation. We convinced ourselves that these lists are non-negotiable and we have to finish all of them. It seems logical from the internal perspective, but from other people's perspective, you're sabotaging yourself.
+^
+Let's imagine a fresh graduate looking for a job. After scouring vacancies, he finds a good position at a top company. After checking the job requirement, he feels that he wants to prepare first before sending the application. But because he's afraid of rejection, he's more focused on preparing rather than actually applying for the position. He keeps adding new things to be learned and to be prepared to the point he's burned out before trying. From his perspective, he cannot apply until he finishes all preparation. From our perspective, he can just go for it. 
+
+III Movement is possible
+---
+I love paradox stories because it's mind-bending. If you frame a problem and reason for it in a specific way, you can arrive at unintuitive answers. How you approach things matters.
+^
+Be careful of the sophistry of your mind. You’re capable to intellectualize and rationalize anything into a seemingly reasonable explanation — including justifying to not do the necessary work.
 
 ---
