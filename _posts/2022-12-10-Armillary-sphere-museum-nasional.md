@@ -60,8 +60,8 @@ II. Armillary sphere
 ---
 _Armillary sphere_ instrumen bola dunia yang terdiri dari rangkaian cincin yang merepresentasikan benda langit. Instrumen ini awalnya menggunakan model semesta geosentris, dimana bumi adalah pusat semesta dan benda-benda langit mengelilingi bumi. Pemodelan ini melibatkan perhitungan matematika untuk membantuk menemukan posisi benda-benda langit yang krusial untuk dijadikan referensi dalam navigasi.
 ^
-Ada beberapa hal yang menurutku bikin _armillary sphere_ itu spesial:
-- Pertama, _armillary sphere_ itu konsepnya geosentris dimana bumi adalah pusat alam semesta. Setelah ilmu pengetahuan berkembang kita menemukan bahwa justru bumilah yang mengelilingi matahari. Tapi yang membuatku takjub adalah meskipun didasari konsep yang keliru (geosentris), orang-orang jaman dulu mampu merancang perhitungan matematika yang mampu berfungsi untuk memprediksi posisi benda langit. Artinya, to some extent, we are able to build a prediction or mathematical model of a phenomenon without knowing its actual mechanism.
+Ada beberapa hal yang menurutku membuat _armillary sphere_ itu spesial:
+- Pertama, _armillary sphere_ itu konsepnya geosentris dimana bumi adalah pusat alam semesta. Setelah ilmu pengetahuan berkembang kita menemukan bahwa justru bumilah yang mengelilingi matahari. Tapi yang membuatku takjub adalah meskipun didasari konsep yang keliru (geosentris), orang-orang jaman dulu mampu merancang perhitungan matematika yang mampu berfungsi untuk memprediksi posisi benda langit. Artinya, **_to some extent, it is possible to build a prediction or mathematical model of a phenomenon without knowing its actual mechanism._**
 ^
 - Kedua, abad pertengahan adalah masa dimana ilmu pengetahuan yang masih terbatas bercampur dengan takhayul dan mistisme. Bayangkan kamu adalah orang yang memiliki kemampuan untuk menghitung dan memprediksi pergerakan benda langit. Menggunakan instrumen yang canggih dan melakukan perhitungan yang rumit, kamu bisa menebak jalur matahari, bulan dan bintang. It would be seen as a divine art, ilmu langit.
 ^
