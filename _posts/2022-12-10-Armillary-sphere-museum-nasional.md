@@ -18,11 +18,7 @@ Postingan ini ditulis dalam campuran dua bahasa. This is still a draft.
 I. Museum Nasional
 ---
 
-Waktu jalan-jalan ke Museum Nasional di Jakarta beberapa waktu lalu, aku ketemu porselen keramik yang unik dari koleksi lainnya. Botol kecil dengan gambar mechanical globe ditengahnya.
-
-Aku suka porselen keramik Cina, terutama dari era Dinasti Ming. Ciri khas dari keramik era ini adalah dekorasinya menggunakan kombinasi warna putih dan biru cobalt. Semakin kontras birunya, semakin cantik. 
-
-Kemarik era itu biasanya berdekorasi pemandangan, hewan atau kehidupan sehari-hari. Makanya pas lihat keramik dengan dekorasi yang mekanis, aku penasaran dengan cerita dibaliknya.
+Waktu jalan-jalan ke Museum Nasional di Jakarta beberapa waktu lalu, aku ketemu porselen keramik yang unik dari koleksi lainnya. Botol kecil dengan gambar mechanical globe ditengahnya. Aku suka porselen keramik Cina, terutama dari era Dinasti Ming. Ciri khas dari keramik era ini adalah dekorasinya menggunakan kombinasi warna putih dan biru cobalt. Semakin kontras birunya, semakin cantik. Biasanya berdekorasi pemandangan, hewan atau kehidupan sehari-hari. Makanya pas lihat keramik dengan dekorasi yang mekanis, aku penasaran dengan cerita dibaliknya.
 
 <figure>
 <p align="center"> 
@@ -89,7 +85,7 @@ Oke, kembali ke porselen keramik. Sekarang aku jadi lebih sadar betapa besarnya 
 ^
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Armillary5.png" alt="ceramic bottle">
+<img src="/assets/Armillary5.png" alt="ceramic bottle">
 </p>
 <figcaption style="text-align: center">fig 4. Jianxi, The capital region of ceramic production in Ming Dynasty </figcaption> 
 </figure>
