@@ -37,7 +37,7 @@ key: page-about
 Hello there!<br/>
 This is a blog for my personal writings, mostly reworking of my Twitter thread and notes.<br/>
 <br/>
-This is my attempt to articulate my observations and rough, half-baked analysis into something readable. Writing is harder than I expected, therefore my posts are disjointed rambling and decidedly incomplete. <br/>
+This is my attempt to articulate my observations and rough half-baked analysis into something readable. My posts are disjointed rambling and decidedly incomplete because writing is so hard. <br/>
 <br/>
-If you're a friend of mine from Twitter, welcome. Basically my talking point is more or less the same with my tweets but it will be more elaborated.<br/>
+If you're a friend of mine from Twitter, welcome. My talking point will be similar with my tweets with more elaboration.<br/>
 Cheers!<br/>
