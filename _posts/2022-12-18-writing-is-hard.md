@@ -18,7 +18,7 @@ I want to blame social media for my poor writing skills but I don’t think it�
 Twitter definitely plays a big role in shaping how I express my thought. I’m used to writing in tweets, one chunk at a time. The Twitter thread allows me to articulate my thoughts in a chain of bullet points. But that's it. When I tried to expand it into a long form, it feels janky and disconnected.
 ^
 My initial observation of myself when I'm trying to write:
-- I find myself switching between Indonesian and English as I am composing this message, as certain ideas and concepts can be more clearly conveyed in one language over the other.
+- I find myself switching between Indonesian and English, as certain ideas and concepts can be more clearly conveyed in one language over the other.
 - My thought process is not exactly in sequence order, as I frequently jump between concepts and make connections between them in a non-linear fashion. I only became aware that my thought process was confusing when I tried to put it into writing.
 - I find that I struggle to express myself effectively because my vocabulary is limited. This often leads me to rely on a repetitive set of words, which can make my writing or speaking feel dry.
 ^
