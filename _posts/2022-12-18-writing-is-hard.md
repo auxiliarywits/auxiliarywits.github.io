@@ -23,4 +23,4 @@ My initial observation of myself when I'm trying to write:
 - I find that I struggle to express myself effectively because my vocabulary is limited. This often leads me to rely on a repetitive set of words, which can make my writing or speaking feel dry.
 ^
 
-I am working to develop my writing skills so that I am able to clearly and logically convey my thoughts and ideas in a way that is easy for others to understand. Honestly, it feels like learning to ride a bike, it feels awkward but I'm getting the hang of it over time.
+I am working to develop my writing skills so that I am able to clearly and logically convey my thoughts and ideas in a way that is easy for others to understand. Honestly, it feels like learning to ride a bike, it feels awkward but I'm confident I'll the hang of it over time.
