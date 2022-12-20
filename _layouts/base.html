@@ -8,6 +8,45 @@ layout: none
   <head>
     {%- include analytics.html -%}
     {%- include head.html -%}
+    
+    <meta
+  name="twitter:site"
+  content="@{{site.twitter_username }}"
+/>
+<meta
+  name="twitter:creator"
+  content="@{{ page.author }}"
+/>
+<meta name="twitter:title" content="{{ page.title }} " />
+<meta
+  name="twitter:description"
+  content=" {{ page.description }} "
+/>
+<meta name="twitter:image" content="{{ page.image}} " />
+
+ {% if page.summary %}
+
+<meta
+  name="twitter:description"
+  content="{{ page.summary }}"
+/>
+ {% else %}
+<meta
+  name="twitter:description"
+  content="{{ site.description }}"
+/>
+{% endif %} {% if page.image %}
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:image"
+  content="{{ site.baseurl }}{{ page.image }}"
+/>
+{% else %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="{{ site.image }}" />
+{% endif %}
+    
     <script>
       {%- include scripts/utils/utils.js -%}
       {%- include scripts/lib/throttle.js -%}
