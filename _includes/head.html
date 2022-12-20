@@ -1,3 +1,41 @@
+<meta
+  name="twitter:site"
+  content="@{{site.twitter_username }}"
+/>
+<meta
+  name="twitter:creator"
+  content="@{{ page.author }}"
+/>
+<meta name="twitter:title" content="{{ page.title }} " />
+<meta
+  name="twitter:description"
+  content=" {{ page.description }} "
+/>
+<meta name="twitter:image" content="{{ page.image}} " />
+
+ {% if page.summary %}
+
+<meta
+  name="twitter:description"
+  content="{{ page.summary }}"
+/>
+ {% else %}
+<meta
+  name="twitter:description"
+  content="{{ site.description }}"
+/>
+{% endif %} {% if page.image %}
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta
+  name="twitter:image"
+  content="{{ site.baseurl }}{{ page.image }}"
+/>
+{% else %}
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:image" content="{{ site.image }}" />
+{% endif %}
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
