@@ -1,8 +1,10 @@
 ---
-title: Writing is hard
+layout:   article
+title:    Writing is hard
+summary:  Short notes on starting writing
+mode:     immersive
+image:    /assets/torments_of_creative_work.png
 tags: 
-layout: article
-mode: immersive
 header:
   theme: dark
 article_header:
