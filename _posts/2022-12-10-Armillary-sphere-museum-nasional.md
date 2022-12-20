@@ -1,7 +1,9 @@
 ---
-title: Armillary sphere di museum nasional
+layout:   article
+title:    Armillary sphere di museum nasional
+description: Catatan singkat tentang perdagangan keramik ketika berkunjung ke museum nasional
+image: "/assets/Azulejo_tiles2.png"
 tags: 
-layout: article
 mode: immersive
 header:
   theme: dark
