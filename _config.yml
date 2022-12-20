@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : Auxiliarywits
 description: > # this means to ignore newlines until "Language & timezone"
-  Auxiliarywits
+  Thoughts and notes
 
 
 ## => Language and Timezone
