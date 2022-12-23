@@ -68,7 +68,7 @@ Martial arts help us learn to move our body firmly with purpose and I think that
 <figcaption style="text-align: center">Karate Kata: Firm and fast movement for striking and blocking.</figcaption> 
 </figure>
 
-
+^
 ^
 <figure>
 <p align="center"> 
