@@ -67,15 +67,15 @@ Martial arts help us learn to move our body firmly with purpose and I think that
 </p>
 <figcaption style="text-align: center">Karate Kata: Firm and fast movement for striking and blocking.</figcaption> 
 </figure>
-^
+
 ^
 <figure>
 <p align="center"> 
 <img src="/assets/Bodily-awareness-bjj.png" alt="Jiu Jitsu">
 </p>
-<figcaption style="text-align: center">“Jiu-Jitsu: Open stance, grappling, need to be comfortable navigating through awkward positions” </figcaption> 
+<figcaption style="text-align: center">Jiu-Jitsu: Open stance, grappling, need to be comfortable navigating through awkward positions </figcaption> 
 </figure>
-^
+
 ^
 <figure>
 <p align="center"> 
@@ -83,7 +83,7 @@ Martial arts help us learn to move our body firmly with purpose and I think that
 </p>
 <figcaption style="text-align: center">Judo: Balance, throwing, need to feel the center of gravity and a sense of momentum</figcaption> 
 </figure>
-^
+
 
 IV Dance
 ---
@@ -115,6 +115,7 @@ But even if we dance like an idiot, it will still improve our body awareness. We
 <figcaption style="text-align: center">Public dancing</figcaption> 
 </figure>
 ^
+
 <figure>
 <p align="center"> 
 <img src="/assets/Bodily-awareness-fire-festival.png" alt="Fire dance">
@@ -140,6 +141,7 @@ Whatever physical activity or discipline you engage in, will contribute to your 
 
 Having good body awareness also means that you have a better understanding of the relationship between posture and mood. You can recognize how changes in posture can affect your mood and emotional state. This will help in communicating nonverbally with others.
 ^
+
 <figure>
 <p align="center"> 
 <img src="/assets/Bodily-awareness-confident.png" alt="Run in nature">
