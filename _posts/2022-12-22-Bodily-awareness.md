@@ -16,22 +16,21 @@ article_header:
 I Bodily awareness
 ---
 
-One of the most underrated benefit of physical exercise is gaining better bodily awareness and mastery. Terlepas dari disiplinnya apa, entah itu bela diri (Karate, Jiu-Jitsu, Gulat), atletik (sprint, berenang, lompat jauh) atau bahkan yang bersenang-senang seperti menari (ballet, modern dance, pole dance), semuanya memberi benefit yang sama: kesadaran dan kontrol tubuh yang lebih baik.
+Imagine trying ninja warrior obstacles for the first time. The obstacle seems simple, you think you'll get it. However, as you began to make your way through the course, you realize that your body is not reacting as fast as you thought. Your jump is not high enough and your grip is not strong enough. You fell into the pool with hard realization that you're clumsy.
 
-There is a gap between the perception our own of physical capabilities and actual capabilities. This gap is not always obvious unless we are engaging in heavy exercises. 
-
-Misalnya bayangkan kamu sedang mengunjungi wahana halang rintang *Ninja Warrior*. Sekilas tampak mudah karena rintangannya sederhana, kamu bisa menganalisa rute dan gerakan yang paling efisien untuk bisa menyeberang. Ketika mencoba mulai bergerak, barulah kamu menyadari bahwa badanmu nggak segesit bayanganmu: Lompatanmu tidak cukup jauh, genggamanmu tidak cukup kuat. Terlalu fokus dengan urutan langkah kaki yang menyebabkan malah tidak sinkron.
+There is a gap between the perception our own of physical capabilities and actual capabilities. This gap is not always obvious unless we're pushing to our limits. 
 
 <figure>
 <p align="center"> 
 <img src="/assets/Bodily-awareness-obstacle.png" alt="Obstacle run">
 </p>
-<figcaption style="text-align: center">Finding out the clumsiness the hard way</figcaption> 
+<figcaption style="text-align: center">“Finding out the clumsiness the hard way (percaya diri lalu jatuh)” </figcaption> 
 </figure>
 ^
-Kejadian yang sama juga terjadi ketika melihat orang menari dan berdansa. Kelihatannya mudah karena gerakannya tidak berat seperti skenario sebelumnya, tapi lagi-lagi lebih mudah membayangkan daripada mencoba sendiri. 
 
-Physical discipline helps to improve our bodily awareness. To be aware of subtle things: Range-of-movement of our limbs, hand-eye coordination, the strength of our grips, the precision of our steps, body balance, etc. Tulisan ini merupakan catatan apresiasi saya tentang bagaimana disiplin fisik membantu kita mengeksplor tubuh sendiri dan mendorongnya sampai batas. 
+One of the most underrated benefits of physical exercise is gaining better bodily awareness and mastery. To be aware of subtle things: Range-of-movement of our limbs, hand-eye coordination, the strength of grips, the precision of steps, body balance, etc. 
+
+Terlepas dari disiplinnya apa, entah itu bela diri (Karate, Jiu-Jitsu, Gulat), atletik (sprint, berenang, lompat jauh) atau bahkan yang bersenang-senang seperti menari (ballet, modern dance, pole dance), semuanya memberi manfaat yang sama: kesadaran dan kontrol tubuh yang lebih baik. Tulisan ini merupakan catatan apresiasi saya tentang bagaimana disiplin fisik membantu kita mengeksplor dengan caranya masing-masing. 
 
 II Marching
 ---
