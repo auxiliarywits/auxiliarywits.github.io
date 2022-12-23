@@ -26,7 +26,7 @@ Misalnya bayangkan kamu sedang mengunjungi wahana halang rintang *Ninja Warrior*
 <p align="center"> 
 <img src="/assets/Bodily-awareness-obstacle.png" alt="Obstacle run">
 </p>
-<figcaption style="text-align: center">“Finding out the clumsiness the hard way (sesumbar lalu jatuh)” </figcaption> 
+<figcaption style="text-align: center">Finding out the clumsiness the hard way</figcaption> 
 </figure>
 ^
 Kejadian yang sama juga terjadi ketika melihat orang menari dan berdansa. Kelihatannya mudah karena gerakannya tidak berat seperti skenario sebelumnya, tapi lagi-lagi lebih mudah membayangkan daripada mencoba sendiri. 
@@ -45,7 +45,7 @@ Semua perubahan ini tidak perlu dijelaskan secara verbal, tapi kombinasi sensasi
 <p align="center"> 
 <img src="/assets/Bodily-awareness-posture.png" alt="Stand up straight">
 </p>
-<figcaption style="text-align: center">“Mengubah postur menjadi tegap butuh conscious effort”</figcaption> 
+<figcaption style="text-align: center">Mengubah postur menjadi tegap butuh conscious effort</figcaption> 
 </figure>
 
 
@@ -65,8 +65,9 @@ Martial arts help us learn to move our body firmly with purpose and I think that
 <p align="center"> 
 <img src="/assets/Bodily-awareness-karate.png" alt="Karate">
 </p>
-<figcaption style="text-align: center">“Karate Kata: Firm and fast movement for striking and blocking.” </figcaption> 
+<figcaption style="text-align: center">Karate Kata: Firm and fast movement for striking and blocking.</figcaption> 
 </figure>
+^
 ^
 <figure>
 <p align="center"> 
@@ -75,11 +76,12 @@ Martial arts help us learn to move our body firmly with purpose and I think that
 <figcaption style="text-align: center">“Jiu-Jitsu: Open stance, grappling, need to be comfortable navigating through awkward positions” </figcaption> 
 </figure>
 ^
+^
 <figure>
 <p align="center"> 
 <img src="/assets/Bodily-awareness-judo.png" alt="Judo">
 </p>
-<figcaption style="text-align: center">“Judo: Balance, throwing, need to feel the center of gravity and a sense of momentum” </figcaption> 
+<figcaption style="text-align: center">Judo: Balance, throwing, need to feel the center of gravity and a sense of momentum</figcaption> 
 </figure>
 ^
 
@@ -97,7 +99,7 @@ Penari dituntut untuk memahami tubuhnya sendiri, kapabilitas dan batasannya, men
 <p align="center"> 
 <img src="/assets/Bodily-awareness-dance.png" alt="Dance">
 </p>
-<figcaption style="text-align: center">“Dance requires strength and flexibility to perform the technique properly” </figcaption> 
+<figcaption style="text-align: center">Dance requires strength and flexibility to perform the technique properly</figcaption> 
 </figure>
 ^
 
@@ -110,14 +112,14 @@ But even if we dance like an idiot, it will still improve our body awareness. We
 <p align="center"> 
 <img src="/assets/Bodily-awareness-public-dance1.png" alt="Public dance">
 </p>
-<figcaption style="text-align: center">“Public dancing” </figcaption> 
+<figcaption style="text-align: center">Public dancing</figcaption> 
 </figure>
 ^
 <figure>
 <p align="center"> 
 <img src="/assets/Bodily-awareness-fire-festival.png" alt="Fire dance">
 </p>
-<figcaption style="text-align: center">“Dancing around the fire place” </figcaption> 
+<figcaption style="text-align: center">Dancing around the fire place</figcaption> 
 </figure>
 ^
 
@@ -132,7 +134,7 @@ Whatever physical activity or discipline you engage in, will contribute to your 
 <p align="center"> 
 <img src="/assets/Bodily-awareness-dance3.png" alt="Salsa">
 </p>
-<figcaption style="text-align: center">“Berdansa adalah komunikasi non-verbal bagi partisipannya. Body movement is a social language.” </figcaption> 
+<figcaption style="text-align: center"> Berdansa adalah komunikasi non-verbal bagi partisipannya. Body movement is a social language </figcaption> 
 </figure>
 ^
 
@@ -142,7 +144,7 @@ Having good body awareness also means that you have a better understanding of th
 <p align="center"> 
 <img src="/assets/Bodily-awareness-confident.png" alt="Run in nature">
 </p>
-<figcaption style="text-align: center">“Physical activity helps me understand my capabilities and limitations, allowing me to take risks with confidence.” </figcaption> 
+<figcaption style="text-align: center"> Physical activity helps me understand my capabilities and limitations, allowing me to take risks with confidence </figcaption> 
 </figure>
 ^
 
