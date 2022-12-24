@@ -35,7 +35,7 @@ Terlepas dari disiplinnya apa, entah itu bela diri (Karate, Jiu-Jitsu, Gulat), a
 II Marching
 ---
 
-Bahkan belajar baris-berbaris yang dianggap kaku dan  pun diawali dengan *body awareness*. Awalnya diajari untuk berdiri tegap karena kebanyakan tidak aware kalo postur mereka ketika berdiri normal ternyata membungkuk. Ketika dipandu untuk memperbaiki posisi menjadi tegap, kita merasakan perubahan di tubuh: Ada otot-otot di perut yang lebih *engaged*, ada *shifting weight* terasa, otot-otot leher yang bekerja sedikit berbeda, perubahan posisi kepala juga mengubah sudut *field of vision*. 
+Baris-berbaris biasanya dipelajari untuk kebutuhan upacara bendera atau mobilisisasi massa. Petugas paskibra melakukan latihan sangat intens untuk memastikan gerakan mereka seragam. Tidak semua orang suka baris-berbaris karena aplikasinya sangat terbatas dan sangat membosankan. Meskipun reputasinya yang kaku dan repetitif, baris-berbaris diawali dengan *body awareness*. Awalnya diajari untuk berdiri tegap karena kebanyakan tidak aware kalo postur mereka ketika berdiri normal ternyata membungkuk. Ketika dipandu untuk memperbaiki posisi menjadi tegap, kita merasakan perubahan di tubuh: Ada otot-otot di perut yang lebih *engaged*, ada *shifting weight* terasa, otot-otot leher yang bekerja sedikit berbeda, *field of vision* berubah karena posisi kepala juga berubah. Begitu juga ketika disuruh berjalan, it will take some time to sync your hand and leg movements while keeping your body stays upright.
 
 Semua perubahan ini tidak perlu dijelaskan secara verbal, tapi kombinasi sensasi ini bisa diingat sebagai signature dari posisi tegap yang kemudian jadi referensi kalo kita ingin berdiri dengan tegap. Next time we will know how it feels when we got the posture right. *This is body awareness*.
 
@@ -153,4 +153,4 @@ Having good body awareness also means that you have a better understanding of th
 
 At one point in my life, I was into Parkour, which involves using your body to navigate through obstacles in your environment. Contrary to popular belief, Parkour is not just about performing flashy flips, but rather about gaining a deep understanding and control over your own body.
 
-It helps me understand my capabilities and limitations, allowing me to take risks with confidence: I know where my feet would land, the strength of grip, range of movement, how far I can push myself, etc. It's a great feeling. I would love to have that again.
+For me, personally, it helps me understand my capabilities and limitations, allowing me to take risks with confidence: I know where my feet would land, the strength of grip, range of movement, how far I can push myself, etc. It's a great feeling. I would love to have that again.
