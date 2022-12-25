@@ -3,7 +3,7 @@ title: The Man In The Arena — Notes and Commentary
 tags: Speech
 ---
 
-From a speech entitled “Citizenship in a Republic” by Theodore Roosevelt at the Sorbonne 1910.
+From “Citizenship in a Republic”, a speech by by Theodore Roosevelt at the Sorbonne 1910.
 
 >"It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. 
 >
