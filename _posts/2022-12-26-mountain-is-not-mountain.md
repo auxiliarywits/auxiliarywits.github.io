@@ -1,6 +1,17 @@
 ---
-title: Mountains are not mountains (or how we learn to see)
-tags: Zen
+layout: article
+title:  Mountains are not mountains (or how we learn to see)
+tags:   Zen
+description: 
+image:
+tags: 
+mode: immersive
+header:
+  theme: dark
+article_header:
+  type: cover
+  image:
+     src: /assets/curug_sawer.png
 ---
 
 There is a famous Zen saying:
