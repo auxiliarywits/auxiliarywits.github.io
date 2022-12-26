@@ -11,7 +11,7 @@ header:
 article_header:
   type: cover
   image:
-     src: /assets/curug_sawer.png
+     src: /assets/curug_sawer.jpg
 ---
 
 There is a famous Zen saying:
