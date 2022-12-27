@@ -38,7 +38,7 @@ As our understanding improves over time, we may begin to view the mountain as a 
 <p align="center"> 
 <img src="/assets/Zen-master-3-easy-steps.jpg" alt="How to become a Zen master">
 </p>
-<figcaption style="text-align: center">How to become a Zen master in 3 easy steps (it's not)</figcaption> 
+<figcaption style="text-align: center">How to attain mastery. Mudah bukan?</figcaption> 
 </figure>
 
 
