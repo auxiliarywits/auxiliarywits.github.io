@@ -16,23 +16,23 @@ article_header:
 
 There is a famous Zen saying:
 >“Before I had studied Zen for thirty years, I saw mountains as mountains, and waters as waters. When I arrived at a more intimate knowledge, I came to the point where I saw that mountains are not mountains, and waters are not waters. But now that I have got its very substance I am at rest. For it's just that I see mountains once again as mountains, and waters once again as waters.”
+>
+>(Alan Watts, *The Way of Zen*, New York, Pantheon Books, 1951, p. 126, 220 k)
 
-(Alan Watts, *The Way of Zen*, New York, Pantheon Books, 1951, p. 126, 220 k)
+Although I am not a Zen disciple and have not reached enlightenment (yet), the quoted saying captures the internal experience of learning aptly. A study usually involves breaking down an object of study and then putting our attention to its part. We would learn about their names, properties, behavior, and their relationship with other entities. By dissecting and analyzing it from various perspectives, we can expand our understanding of the topic and challenge our previous assumptions with the new information we gain.
 
-I may not have reached enlightenment (yet) but the saying reminds me of how we progress when we are learning. A study usually involves breaking down an object of study and then putting our attention to its part. We would learn about their names, properties, behavior, and their relationship with other parts. 
+In the process, we alter the way see the object. The mountain is no longer a mountain, it’s the sum of its part. The river is no longer a river, it’s the sum of its part. The object is not an object, it is the sum of its parts — which deserves its own studies. A mountain is not a mountain, it is a part of a bigger geological process that happens for millions of years. It is a habitat for thousands of species. It is geographical boundaries that divide civilizations. Et cetera.
 
-In the process, we alter the way see the object. The mountain is not a mountain, it’s the sum of its part. The river is not a river, it’s the sum of its part. The object is not an object, it is the sum of its parts — which deserves its own studies. You can dissect it and analyze it with different lenses. As you delve deeper into the subject, you will question your understanding more and more. Often, the more you learn about something, the more you realize that there are multiple layers of meaning and complexity beneath the surface.
-
-You may find that even simple questions become difficult to answer. When asked 'What is a mountain?' you may find yourself responding with something like “I'm not sure, it depends.”
-
-As our understanding improves over time, we may begin to view the mountain as a mountain once again. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. The relaxed and nonchalant attitude of a seasoned individual may be similar to the beginner[^2] [^3].
+As you delve deeper into the subject, you will move into the grey area and be less certain. Even definitions become difficult to answer. When asked 'What is a mountain?' you may find yourself responding with something like “I'm not sure, it depends”. You have to assign classifications depending on your study.
 
 <figure>
 <p align="center"> 
-<img class="image image--xl" src="/assets/Mountains.png" alt="Student vs seasoned student">
+<img src="/assets/Mountains2.png" alt="Student vs seasoned student">
 </p>
 <figcaption style="text-align: center">A seasoned person can appreciate both beauty and technicalities</figcaption> 
 </figure>
+
+As our understanding improves over time, we may begin to view the mountain as a mountain once again. We are no longer compelled to explain everything in technical terms all the time. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. The relaxed and nonchalant attitude of a seasoned individual may be similar to the beginner. [^2][^3].
 
 ----
 [^1]: As we learn new information, we may forget what it was like to not having that knowledge. This can happen because the information becomes so ingrained in our minds that we may not remember the process of learning it. As a result, we can focus our attention on learning new, unfamiliar concepts and ideas. This phenomenon also happens to the curse of knowledge.
