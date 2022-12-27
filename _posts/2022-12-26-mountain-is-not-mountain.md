@@ -19,7 +19,7 @@ There is a famous Zen saying:
 >
 >(Alan Watts, *The Way of Zen*, New York, Pantheon Books, 1951, p. 126, 220 k)
 
-Although I am not a Zen disciple and have not reached enlightenment (yet), the quoted saying captures the internal experience of learning aptly. A study usually involves breaking down an object of study and then putting our attention to its part. We would learn about their names, properties, behavior, and their relationship with other entities. By dissecting and analyzing it from various perspectives, we can expand our understanding of the topic and challenge our previous assumptions with the new information we gain.
+Although I am not a Zen disciple and have not reached enlightenment (yet), the quoted saying captures my internal experience of learning aptly. A study usually involves breaking down an object of study and then putting our attention to its part. We would learn about their names, properties, behavior, and their relationship with other entities. By dissecting and analyzing it from various perspectives, we can expand our understanding of the topic and challenge our previous assumptions with the new information we gain.
 
 In the process, we alter the way see the object. The mountain is no longer a mountain, it’s the sum of its part. The river is no longer a river, it’s the sum of its part. The object is not an object, it is the sum of its parts — which deserves its own studies. A mountain is not a mountain, it is a part of a bigger geological process that happens for millions of years. It is a habitat for thousands of species. It is geographical boundaries that divide civilizations. Et cetera.
 
