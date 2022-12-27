@@ -44,4 +44,4 @@ As our understanding improves over time, we may begin to view the mountain as a 
 
 [^1]: As we learn new information, we may forget what it was like to not having that knowledge. This can happen because the information becomes so ingrained in our minds that we may not remember the process of learning it. As a result, we can focus our attention on learning new, unfamiliar concepts and ideas. This phenomenon also happens to the curse of knowledge.
 
-[^2]: The relaxed and nonchalant attitude of a seasoned person may be similar to that of a beginner. Con-man and fake guru often take advantage of this behavior by imitating it in order to evoke an aura of charisma and expertise.
+[^2]: Con-man and fake guru often mimic the relaxed and nonchalant attitude of a seasoned person to evoke an aura of charisma and expertise.
