@@ -25,7 +25,7 @@ In the process, we alter the way see the object. The mountain is not a mountain,
 
 You may find that even simple questions become difficult to answer. When asked 'What is a mountain?' you may find yourself responding with something like “I'm not sure, it depends.”
 
-As our understanding improves over time, we may begin to view the mountain as a mountain once again. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. This casual and relaxed attitude of a seasoned individual is often difficult to distinguish from that of a beginner[^2].
+As our understanding improves over time, we may begin to view the mountain as a mountain once again. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. The relaxed and nonchalant attitude of a seasoned individual may be similar to the beginner. [^2][^3].
 
 <figure>
 <p align="center"> 
@@ -35,6 +35,14 @@ As our understanding improves over time, we may begin to view the mountain as a 
 </figure>
 
 ----
-[^1] As we learn new information, we may forget what it was like to not having that knowledge. This can happen because the information becomes so ingrained in our minds that we may not remember the process of learning it. As a result, we can focus our attention on learning new, unfamiliar concepts and ideas. This phenomenon also happens to the curse of knowledge.
+[^1]: As we learn new information, we may forget what it was like to not having that knowledge. This can happen because the information becomes so ingrained in our minds that we may not remember the process of learning it. As a result, we can focus our attention on learning new, unfamiliar concepts and ideas. This phenomenon also happens to the curse of knowledge.
 
-[^2] The relaxed and nonchalant attitude of a seasoned person may be similar to that of a beginner, but it is often misunderstood. This can be due to the fact that the seasoned person has a deeper understanding and expertise in their field, which may not be immediately apparent to those who are just starting out or do not have the same level of knowledge. A conman could imitate this behavior to evoke the aura of charisma and expertise.
+[^2]: The relaxed and nonchalant attitude of a seasoned person may be similar to that of a beginner, but it is often misunderstood. This can be due to the fact that the seasoned person has a deeper understanding and expertise in their field, which may not be immediately apparent to those who are just starting out or do not have the same level of knowledge. A conman could imitate this behavior to evoke the aura of charisma and expertise.
+
+[^3]: While it is helpful to describe the internal process of learning can not cheat by jumping to a conclusion. You have to struggle first before arriving at the obvious conclusion. Do the necessary work.
+<figure>
+<p align="center"> 
+<img src="/assets/Zen-master-3-easy-steps.jpg" alt="How to become a Zen master">
+</p>
+<figcaption style="text-align: center">How to become a Zen master in 3 easy steps</figcaption> 
+</figure>
