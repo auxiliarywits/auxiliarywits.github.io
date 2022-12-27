@@ -32,6 +32,8 @@ In the process, we alter the way see the object. The mountain is no longer a mou
 
 You will move into the grey area and be less certain as you delve deeper into the subject. Even definitions become difficult to answer. When asked 'What is a mountain?' you may find yourself responding with something like “I'm not sure, it depends”. You have to assign classifications depending on your study.
 
+As our understanding improves over time, we may begin to view the mountain as a mountain once again. We are no longer compelled to explain everything in technical terms all the time. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. You will be more relaxed and nonchalant[^2].
+
 <figure>
 <p align="center"> 
 <img src="/assets/Zen-master-3-easy-steps.jpg" alt="How to become a Zen master">
@@ -39,7 +41,6 @@ You will move into the grey area and be less certain as you delve deeper into th
 <figcaption style="text-align: center">How to become a Zen master in 3 easy steps (it's not)</figcaption> 
 </figure>
 
-As our understanding improves over time, we may begin to view the mountain as a mountain once again. We are no longer compelled to explain everything in technical terms all the time. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. You will be more relaxed and nonchalant[^2].
 
 [^1]: As we learn new information, we may forget what it was like to not having that knowledge. This can happen because the information becomes so ingrained in our minds that we may not remember the process of learning it. As a result, we can focus our attention on learning new, unfamiliar concepts and ideas. This phenomenon also happens to the curse of knowledge.
 
