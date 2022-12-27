@@ -23,8 +23,6 @@ Although I am not a Zen disciple and have not reached enlightenment (yet), the q
 
 In the process, we alter the way see the object. The mountain is no longer a mountain, it’s the sum of its part. The river is no longer a river, it’s the sum of its part. The object is not an object, it is the sum of its parts — which deserves its own studies. A mountain is not a mountain, it is a part of a bigger geological process that happens for millions of years. It is a habitat for thousands of species. It is geographical boundaries that divide civilizations. Et cetera.
 
-As you delve deeper into the subject, you will move into the grey area and be less certain. Even definitions become difficult to answer. When asked 'What is a mountain?' you may find yourself responding with something like “I'm not sure, it depends”. You have to assign classifications depending on your study.
-
 <figure>
 <p align="center"> 
 <img src="/assets/Mountains2.png" alt="Student vs seasoned student">
@@ -32,11 +30,12 @@ As you delve deeper into the subject, you will move into the grey area and be le
 <figcaption style="text-align: center">A seasoned person can appreciate both beauty and technicalities</figcaption> 
 </figure>
 
-As our understanding improves over time, we may begin to view the mountain as a mountain once again. We are no longer compelled to explain everything in technical terms all the time. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. The relaxed and nonchalant attitude of a seasoned individual may be similar to the beginner. [^2][^3].
+You will move into the grey area and be less certain as you delve deeper into the subject. Even definitions become difficult to answer. When asked 'What is a mountain?' you may find yourself responding with something like “I'm not sure, it depends”. You have to assign classifications depending on your study.
 
-----
+As our understanding improves over time, we may begin to view the mountain as a mountain once again. We are no longer compelled to explain everything in technical terms all the time. However, this shift in perspective is not a return to the starting point; rather, it's about approaching the situation with a renewed sense of clarity and appreciation. Your extensive knowledge of mountains will not distract you from enjoying the beautiful view because it has seeped into your mind[^1]. You will be more relaxed and nonchalant[^2] [^3].
+
 [^1]: As we learn new information, we may forget what it was like to not having that knowledge. This can happen because the information becomes so ingrained in our minds that we may not remember the process of learning it. As a result, we can focus our attention on learning new, unfamiliar concepts and ideas. This phenomenon also happens to the curse of knowledge.
 
-[^2]: The relaxed and nonchalant attitude of a seasoned person may be similar to that of a beginner, but it is often misunderstood. This can be due to the fact that the seasoned person has a deeper understanding and expertise in their field, which may not be immediately apparent to those who are just starting out or do not have the same level of knowledge. A conman could imitate this behavior to evoke the aura of charisma and expertise.
+[^2]: The relaxed and nonchalant attitude of a seasoned person may be similar to that of a beginner. Conman often take advantage of this behavior by imitating it in order to evoke an aura of charisma and expertise.
 
-[^3]: While it is helpful to describe the internal process of learning can not cheat by jumping to a conclusion. You have to struggle first before arriving at the obvious conclusion. Do the necessary work.
+[^3]: While it is helpful to describe the internal process of learning, you can not cheat by jumping to a conclusion. You have to struggle first before arriving at the obvious conclusion. Do the necessary work.
