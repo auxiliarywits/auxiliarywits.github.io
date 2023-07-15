@@ -89,6 +89,6 @@ To summarize, our fascination with watching skilled individuals stems from the d
 However, competence can’t be invoked by adopting the aesthetic alone. At best, it allows us to enhance our persuasiveness by associating ourselves with their credibility. I know it’s supposed to be common sense, but our subconscious mind often blurs the line between facts and fiction when processing subtle elements such as stories, impressions, symbols, patterns, and intense emotions. This is where we are all vulnerable to influence.
 
 <div>{%- include extensions/youtube.html id='QS9q5strwrU' -%}</div>
-<figcaption style="text-align: center">Multi Level Marketing mimics the style and language of wealthy individuals, based on their own perception of what a rich man is supposed to like.</figcaption> 
+<figcaption style="text-align: center">MLM often mimics the style and language of wealthy individuals to persuade newcomers.</figcaption> 
 
 Your media consumption seeps through your mind deeply and shapes your perception of the world. If you never work alongside the actual professional, your mind will borrow the image from popular depictions. We should be mindful of our own judgment, we can’t rely on intuition alone. Don’t be blinded by the charisma and the smooth-talking, do your due diligence. 
