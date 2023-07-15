@@ -17,7 +17,21 @@ The Martian (2015) tells us a story about an astronaut that has been stranded on
 
 This is a movie where the huge part of the joy is just watching him explain his thought process. From identifying the situation, pondering the problems, calculating the resources and planning the next step. It is very satisfying as if we’re involved in the process.
 
+<figure>
+<p align="center"> 
+<img src="/assets/MarkWatney.png" alt="Martian potato">
+</p>
+<figcaption style="text-align: center">Mark Watney tending his Martian potato garden.</figcaption> 
+</figure>
+
 In Ocean Eleven (2001), Danny Ocean persuades a group of people with different skill sets to pull a risky and almost impossible heist. It is a very stylish movie where the charm lies in scheming and bantering with each other. Danny lays out the plan, highlights the key players, explains where their skills are needed, and talks about the obstacles. Even in the middle of high-stakes execution, they still casually banter with each other, which become the humor of the movie. Why this kind of movie is so fun to watch?
+
+    <figure>
+    <p align="center"> 
+    <img src="/assets/DannyOcean.png" alt="Ocean">
+    </p>
+    <figcaption style="text-align: center">The group briefing scene has been a trope for heist movies.</figcaption> 
+    </figure>
 
 There’s actually a term for this. A TV writer in 2009 once discussed how viewers found pleasure in watching skilled individuals engaging in witty exchanges and strategic planning, a phenomenon he coined as 'competence porn’. This term then has been used loosely in TV and cinema for depicting hypercompetent people being good at their field and working their way to solving the problem.
 
@@ -41,12 +55,31 @@ Fraudsters and con artists wield a deep understanding of the aesthetic of compet
 
 Catch Me if You Can (2002) is a perfect movie to showcase the art of deception through imitation. Frank Abagnale with his impersonation skill confidently outsmarts the public and authorities. Along the way, he has become a teacher, a doctor, a pilot even a secret service. Until the real problem arises, people didn’t bother to check his credibility because he displays the correct aesthetic coding of each profession.
 
+<figure>
+<p align="center"> 
+<img src="/assets/CatchIfMeYouCan.png" alt="Catch Me If You Can">
+</p>
+<figcaption style="text-align: center">Catch Me If You Can (2002): Teacher, Pilot, Doctor, Secret Service</figcaption> 
+</figure>
+
 Elizabeth Holmes, the ex-president of Theranos, is a highly controversial figure due to her fraudulent activities in her blood-testing startup. 
 Initially regarded as "The Next Steve Jobs," Holmes mimicked Jobs' style by adopting an all-black wardrobe, wearing turtlenecks, and speaking like him. She even attempted to deepen her voice to further resemble Steve Jobs. The decision to invent a persona for herself is a response to her experience of not being taken seriously during pitching sessions. As silly as it sounds, her strategy works. People began to pay attention to her and the investors started to come in.
 
-A lot of internet marketers carefully use certain aesthetic choices to portray themselves as cool and competent. They may wear suits to appear elite, pose with luxury items to look wealthy, smoke cigars to seem masculine, or offer life advice to be perceived as wise. All of these efforts are aimed at creating a larger-than-life persona to sell courses or membership.
+<figure>
+<p align="center"> 
+<img src="/assets/ELizabethHolmes.png" alt="ElizabethHolmes">
+</p>
+<figcaption style="text-align: center">Elizabeth Holmes copying Steve Jobs </figcaption> 
+</figure>
 
-My advice is to be careful because the charm of the marketer may not reflect the quality of the product. Don’t fall for the persona, do your due diligence.
+A lot of internet marketers carefully use certain aesthetic choices to portray themselves as cool and competent. They may wear suits to appear elite, pose with luxury items to look wealthy, smoke cigars to seem masculine, or offer life advice to be perceived as wise. All of these efforts are aimed at creating a larger-than-life persona to sell courses or membership. My advice is to be careful because the charm of the marketer may not reflect the quality of the product. Don’t fall for the persona, do your due diligence.
+
+<figure>
+<p align="center"> 
+<img src="/assets/Danlok.png" alt="DanLok">
+</p>
+<figcaption style="text-align: center">Internet marketers are known for carefully crafting their image using certain aesthetics to portray their competency</figcaption> 
+</figure>
 
 Resisting influence
 ---
