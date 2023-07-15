@@ -9,9 +9,6 @@ article_header:
   image:
      src: /assets/Tortoise_and_hare1.jpg
 ---
-^
-This is the second draft.
-{:.info}
 
 I. Movement is impossible
 ---
