@@ -29,7 +29,7 @@ Ada dua alasan kenapa kutipan ini menjadi populer: Pertama, berisi sekumpulan de
 
 Dengan struktur yang sama, monolog -maxxing punya nada yang asertif seolah datang dari seseorang yang berpengalaman. Instruksi yang diberikan pun sebenarnya ngasal tapi menuntun pembaca untuk membayangkan suasana dan auranya. Evoking the desired vibe.
 
-*You have to  be [attribute]-maxxing. [description 1]. [description 2].  [description 3]. You have to  be [attribute]-maxxing.*
+>**_You have to  be [attribute]-maxxing. [description 1]. [description 2].  [description 3]. You have to  be [attribute]-maxxing._**
 
 Monolog -maxxing kemudian menyebar dan viral karena orang-orang meniru strukturnya. Inilah yang dinamakan meme. Bentuk dan strukturnya ditiru dan diadopsi, terlepas dari konteks awal dengan harapan bisa mereplikasi charm asertif dan imajinasi yang playful. 
 
